@@ -1,4 +1,4 @@
-make main
+make competition
 
 size:1000
 sort(): 0.000239 seconds
